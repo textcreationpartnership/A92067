@@ -1,0 +1,193 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The speech of that vvorthy knight, Sir Beniamin Rudierd, spoken in Parliament; concerning the placing of good and able divines in parishes miserably destitute of instruction, through want of maintenance. And confirmed by the testimonies of three judicious, and learned men.</title>
+            <author>Rudyerd, Benjamin, Sir, 1572-1658.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1641</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 26 KB of XML-encoded text transcribed from 6 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A92067</idno>
+            <idno type="STC">Wing R2199</idno>
+            <idno type="STC">ESTC R182951</idno>
+            <idno type="EEBO-CITATION">45097927</idno>
+            <idno type="OCLC">ocm 45097927</idno>
+            <idno type="VID">171503</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A92067)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 171503)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2576:5)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The speech of that vvorthy knight, Sir Beniamin Rudierd, spoken in Parliament; concerning the placing of good and able divines in parishes miserably destitute of instruction, through want of maintenance. And confirmed by the testimonies of three judicious, and learned men.</title>
+                  <author>Rudyerd, Benjamin, Sir, 1572-1658.</author>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>[s.n.],</publisher>
+                  <pubPlace>London printed. :</pubPlace>
+                  <date>1641.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in the Sutro Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Church of England --  Clergy.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-08</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-09</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-08</date>
+            <label>Leah Yurasek</label>Sampled and proofread</change>
+         <change>
+            <date>2010-08</date>
+            <label>Leah Yurasek</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:171503:1" rendition="simple:additions"/>
+            <p>THE SPEECH OF THAT VVORTHY KNIGHT, SIR BENIAMIN Rudierd, ſpoken in Parliament; <hi>CONCERNING</hi> THE PLACING OF GOOD AND ABLE DI<g ref="char:EOLhyphen"/>vines in Pariſhes miſerably deſtitute of Inſtruction, through want of Maintenance.</p>
+            <p>AND CONFIRMED BY THE Teſtimonies of three judicious, and Learned Men.</p>
+            <p>London Printed. 1641.</p>
+            <pb facs="tcp:171503:2" rendition="simple:additions"/>
+            <gap reason="duplicate" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb n="2" facs="tcp:171503:3"/>
+            <head>SIR BENJAMIN RVDDIERD</head>
+            <head type="sub">His Speech-in Parliament.</head>
+            <p>MAſter <hi>Speaker,</hi> I did not thinke to have ſpoken againe to this bill, be<g ref="char:EOLhyphen"/>cauſe I was willing to believe that the forwardneſſe of this Committee would have prevented me, but now I do hold my ſelfe bound to ſpeak, and to ſpeake in earneſt.</p>
+            <p>IN the firſt yeare of the King, and the ſecond convention, I firſt moved for the encreaſe and enlargement of poore Miniſters Livings; I ſhewed how neceſſa<g ref="char:EOLhyphen"/>ry it was to be done, how ſhamefull it was, that it had beene ſo long neglected. This was alſo commended to the Houſe by his Majeſty. There were then, as now many accuſations on foote againſt ſcandalous Miniſters. I was bold to tell the Houſe, that there were ſcandalous Livings too which were much the cauſe of the other: Livings of five Markes, of five pounds a yeare, that men of worth and of parts would not be muſled up to ſuch pittances. And that there were ſome pla<g ref="char:EOLhyphen"/>ces in <hi>England,</hi> which were ſcarſe in Chriſtendome, where God was little better knowne then amongſt <hi>Indians.</hi> I exampled it in the utmoſt skirts of the <hi>North,</hi> where the prayers of the common people, are more like ſpels and charmes then devotions; the ſame blindneſſe and ignorance is in divers parts of <hi>Wales,</hi> which many of that Countrey doe both know and lament.</p>
+            <p>I declared alſo, that to plant good Miniſters in good Livings, was the ſtron<g ref="char:EOLhyphen"/>geſt and ſureſt meanes to eſtabliſh true Religion, that it would prevaile more a<g ref="char:EOLhyphen"/>gainſt papiſtry then the making of new lawes, or executing of old. That it would counterworke court-conſcience and lukewarme accommodation. That though the calling of Miniſters be never ſo glorious within, yet outward povertie will bring contempt upon them, eſpecially among thoſe, who meaſure men by the acre, and weigh them by the pound, which indeed is the greateſt part of men.</p>
+            <p>Mr. <hi>Speaker,</hi> I cannot but teſtifie how being in <hi>Germany,</hi> I was exceedingly ſcandalized to ſee the poore ſtipendiary Miniſters of the reformed Churches there diſpiſed and neglected by reaſon of their povertie, being otherwiſe very grave and learned men. I am afraid that this is a part of the burthen of <hi>Germany,</hi> which ought to be a warning to us.</p>
+            <p>I have heard many objections and difficulties even to impoſſibilities againſt this bill: to him that is unwilling, there is ever a beare or a lion in the way. Firſt let us make our ſelves willing, then will the way be eaſie and ſafe enough.</p>
+            <p>I have obſerved, that we are alwayes very eager and fierce againſt papiſtry, againſt ſcandalous Miniſters, and againſt things which are not much in our pow<g ref="char:EOLhyphen"/>er; I ſhould be glad to ſee that we did delight as well in rewarding, as in pu<g ref="char:EOLhyphen"/>niſhing, and in undertaking matters within our owne reach, as this is abſolutely within our power. Our owne duties are next us, other mens farther off: I doe not ſpeake this, that I doe miſlike the deſtroying or putting down of that which is ill, but then let us be as earneſt to plant and build up that which is good in the room of it; for why ſhould we be deſolate. The beſt and the gentleſt way to diſpel darkeneſſe, is, to let in the light; we ſay that day breakes, but no man ever heard the noyſe of it; God comes in the ſtill voyce; let us quietly mend <gap reason="illegible" resp="#UOM" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> ſtickes, and we cannot want lights <gap reason="illegible" resp="#UOM" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap>
+            </p>
+            <p>
+               <gap reason="illegible" resp="#UOM" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap>
+               <pb n="3" facs="tcp:171503:3"/>ſay, that we chuſe our religion, becauſe it is the cheaper of the two; that we would willingly ſerve God with ſomewhat that would coſt us naught. Beleeve it Mr. <hi>Speaker,</hi> he that thinkes to ſave any thing by his religion, but his ſoule, will be a terrible looſer in the end. We ſow ſparingly, that's the reaſon we reape ſo ſparing<g ref="char:EOLhyphen"/>ly, and have no more fruite. Me thinkes whoſoever hates papiſtry, ſhould by the ſame rule hate coverouſneſſe, for that's idolatry too. I never lik'd hot profeſſions and cold actions. Such an hate is rather the heate of diſtemper and diſeaſe, then of life and ſaving health.</p>
+            <p>For ſcandalous Miniſters, there is no man ſhall be more forward to have them ſeverely puniſhed, then I will be: when ſalt hath loſt his favour, let it be caſt out upon the unſavory place, the dunghill But Sir, let us deale with them, as God hath dealt with us. God before he made man, made the world, an hand ſome place for him to dwell in; ſo let us provide them convenient livings, and then puniſh them in Gods name, but till then ſcandalous livings cannot but have ſcandalous Mini<g ref="char:EOLhyphen"/>ſters. It ſhall ever be a rule to me, that where the Church and common-wealth are both of one religion, it is comely and decent, that the outward ſplendour of the Church, ſhould hold a proportion, &amp; participate with the proſperity of the tempo<g ref="char:EOLhyphen"/>rall ſtate: why ſhould we dwel in houſes of ceders, &amp; ſuffer God todwell in skins.</p>
+            <p>It was a glorious and religious worke of King <hi>Iames,</hi> (I ſpeake it to his un<g ref="char:EOLhyphen"/>ſpeakeable honour, and to the praiſe of that Nation, who though their Countrey be not ſo rich as ours, yet are they richer in their affections to Religion) within the ſpace of one yeare he cauſed to be planted Churches through all <hi>Scotland,</hi> the <hi>Highland</hi> and the <hi>Borders,</hi> worth 30l a yeare a peece, with a houſe and ſome glebe land belonging to them; which 30l a yeare, conſidering the cheapenes of the Countrey, and the modeſt faſhion of Miniſters living there, is worth double as much, as any where within an 100 miles of <hi>London.</hi> The printed Act &amp; Com<g ref="char:EOLhyphen"/>miſſion whereby it was executed, I have here in my hand, delivered to me by a noble Gent, of that nation, &amp; a worthy member of this houſe Sir <hi>Francis Steward.</hi>
+            </p>
+            <p>To conclude, though Chriſtianity &amp; Religion be eſtabliſhed generally through<g ref="char:EOLhyphen"/>out this kingdome, yet untill it be planted more particularly, I ſhall ſcarce thinke this a Chriſtian Common-wealth. And ſeeing it hath beene moved and ſhewed in Parliament, it well lie heavie upon Parliaments, untill it be effected. Let us do ſomething for God here of our owne; and no doubt God will bleſſe our procee<g ref="char:EOLhyphen"/>dings in this place the better for ever hereafter. And for mine own part, I will ne<g ref="char:EOLhyphen"/>ver give over ſoliciting this cauſe as long as Parliaments and I live together.</p>
+            <p>TO confirme the complaint of this worthy and religious Knight: there fol<g ref="char:EOLhyphen"/>lowes the teſtimony of two excellent men of God, whoſe pietie and zeale may move ſome to conſider of the matter more ſeriouſly, then they have done hitherto, eſpecially if they will pleaſe to reade what is written more at large in their Sermons of this argument.</p>
+            <p>The Reverend and learned Biſhop <hi>Iewell</hi> in his Sermon before <hi>Q Elizabeth</hi> on Pſal. 69.9. <hi>The zeale of thine houſe hath eaten me up,</hi> ſaith thus. In <hi>England</hi> ſince the Goſpell hath beene received, the maintenance of learning hath beene decay<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#UOM" extent="2 letters">
+                  <desc>••</desc>
+               </gap> 
+               <gap reason="illegible" resp="#UOM" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap>
+               <pb n="4" facs="tcp:171503:4"/>able and ſufficient Miniſtry may grow and be eſtabliſhed in all the Churches of this Realme, is to be wiſhed for. The good eſtate of this noble Kingdome, the comfort of poſteritie, the ſtay of Religion, the continuing of the Goſpell, the re<g ref="char:EOLhyphen"/>moving of darkeneſſe hangeth upon it. One asked ſometimes how it was, that in <hi>Athens,</hi> ſo good and great a Citie, there were no Phyſitians: to whom this anſwer was made, becauſe there are no rewards appointed for them that practiſe Phy<g ref="char:EOLhyphen"/>ſick. The ſame anſwer may be made for our times; the cauſe why the Church of God is ſo forſaken, is the want of zeale in them that ſhould either for their cour<g ref="char:EOLhyphen"/>teſie, or for their ability be foſterers of learning, and encreaſe the Livings, where occaſion is, and give hope and comfort to learned men. Which ſaid I? encreaſe? nay the Livings and proviſions which heretofore were given, or taken away.</p>
+            <p>Have patience, if any ſuch be here (as I well know there are) whom theſe things touch. Suffer me to ſpeake the truth, it is Gods cauſe: the Livings of ſuch, as are in the Miniſtery, are not in their hands, to whom they are due. All other labourers and artificers have their hire encreaſed double as much as it was wont to be; one<g ref="char:EOLhyphen"/>ly the poore man that laboureth and ſweateth in the vineyard of the Lord of hoſtes hath his hire abridged and abated.</p>
+            <p>I ſpake not of the Curates, but of the Perſonages &amp; Vicarages, that is, of the places, which are the Caſtles and Towers of fence for the Lords Temple. They ſeldome paſſe now adayes from the Patron, if he be no better than a gentleman, but either for the leaſe, or for preſent money. Such Merchants are broken into the Church of God, a great deale more intollerable, then were they, whom Chriſt whipped and chaſed out of the Temple. Thus they that ſhould be carefull for Gods Church, that ſhould be Patrons to provide for the conſciences of the peo<g ref="char:EOLhyphen"/>ple, and to place among them a learned Miniſter, who might be able to preach the Word unto them, out of ſeaſon, and in ſeaſon, and to fulfill his miniſtery, ſeeke their owne, and not which is Jeſus Chriſts. They ſerve not Jeſus Chriſt, but their belly. And this is done, not in one place, or in one countrey, but throughout <hi>England.</hi> A Gentleman cannot keepe his houſe, unleſſe he have a Perſonage or two in farme for his proviſion.</p>
+            <p>O mercifull God! whereto will this grow at laſt? if the miſery which this plague worketh would reach but to one age, it were the more tolerable: but it will be a plague to the poſterity, it will be the decay and deſolation of Gods Church: young men which are toward and learned ſee this, they ſee, that he which feedeth the flock hath leaſt part of the milke; he which goeth a warfare, hath not halfe his wages; therefore they are weary and diſcouraged, they change their ſtudies, ſome become prentiſes, ſome turne to phyſick, ſome to law, all ſhun and fly the Miniſtery. And beſides, the hinderance that thus groweth by the wic<g ref="char:EOLhyphen"/>ked dealing of patrons, by reaſon of the Impropriations, the vicarages in many places, and in the propereſt marker towns, are ſo ſimple, that no man can live up<g ref="char:EOLhyphen"/>on them, and therefore no man will take them. T they were went to ſay, <hi>Beneficia ſine cura; benefices without charge:</hi> but now may be ſaid, <hi>Cura ſine beneficio: charge or care without benefit.</hi>
+            </p>
+            <p>But there be many which can ſay, ſuch as be Miniſters in the Church ſhould <gap reason="illegible" resp="#UOM" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap>
+               <pb n="5" facs="tcp:171503:4"/>holy Prophets, who lived poorely, poverty is a commendable ſtate. So ſay ſome in like devotion, as did <hi>Iudas. What needeth this waſte? this might have beene ſold for much and given to the poore, not that he cared for the poore, but becauſe he was a theefe, and had the bagge, and bare that which was given.</hi> I do but not there are many which teach Chriſt for Chriſts ſake, which ſay in their ſoule, the Lord is my por<g ref="char:EOLhyphen"/>tion; vvho ſeeke you and not yours; I doubt not there are ſuch.</p>
+            <p>But for the hope of poſteritie, I report me to all you which are Fathers and have children, for whom you are carefull: although your ſelves have a zeale and care for the houſe of God, yet will you breed them up, keepe them at Schoole, and at the Univerſitie, untill 30. or 40. yeares old, to your great char<g ref="char:EOLhyphen"/>ges, to the end, they may live in glorious povertie, that they may live poorely and naked like the Prophets and Apoſtles. Our poſterities ſhall rue that ever ſuch Fathers went before them, and Chronicles ſhall report this contempt of lear<g ref="char:EOLhyphen"/>ning, among the puniſhments and murraines, and other plagues of God, they ſhall leave it written in what time, and under whoſe raigne this was done.</p>
+            <p>In the meane time, what may be gueſſed of their meaning, who thus ruine and ſpoile the houſe of God, which decay the proviſion thereof, and ſo baſely eſteeme the Miniſters of his Goſpell? they cannot ſay to God, the zeale of thine houſe hath eaten me up however in other things they doe well; however they ſeeme to rejoyce at the proſperity of Sion, and to ſeeke the ſafety and preſervation of the Lords anointed: yet needs muſt it be, that by theſe meanes forrain power, of w<hi rend="sup">ch</hi> this Realme by the mercy of God, is happily delivered, ſhall againe be brought in upon us. Such things ſhall be done unto us, as we before ſuffered in the times of Popery; the truth of God ſhall be taken away, the holy Scriptures burnt and conſumed in fire, a marveilous darkeneſſe and calamity muſt needs enſue, &amp;c. The oxe that treadeth out the corn is muſled, he that goeth to warfare, receiveth not his wages, the cry hereof goeth up into the eares of the Lord of hoſtes; hee will not abide ſo great contempt of his Word and Preachers, his owne name is thereby diſhonoured: our Saviour ſaith: <hi>Luk.</hi> 10. <hi>He that deſpiſeth you, deſpiſeth me,</hi> and Saint <hi>Paul,</hi> 1 <hi>Theſſ.</hi> 4. <hi>he that deſpiſeth theſe things, deſpiſeth not man but God;</hi> and thinke we, that he will ſuffer his holy name to be deſpiſed? nay his wrath is already kindled, he hath already begun his judgements, and therefore many pla<g ref="char:EOLhyphen"/>ces are left deſolate, there is none that can warne them of their ſinne, none that can move them to repentance, none that can preach unto them forgiveneſſe through Chriſt, none that can inſtruct them in the comfort of everlaſting life.</p>
+            <p>For this cauſe you will live ſtill in your ſinnes, in adultery, in covetouſneſſe, and in pride, without any feeling of conſcience, without any feare of God, thus we provoke God to anger; many walke (of whom wee cannot thinke but with weeping) they are the enemies of the Croſſe of Chriſt; the name of God is blaſ<g ref="char:EOLhyphen"/>phemed among them, &amp;c. Theſe words happily ſeeme ſharpe &amp; over vehement, but the darkenes of our hearts againſt God, and the lacke of zeale for his houſe, inforce me to them: we are almoſt fallen into the loweſt pit; we are left without zeale, as ſenceleſſe men, and as if we had cleane forgotten our ſelves, as the Hea<g ref="char:EOLhyphen"/>thens which know not God: therefore unleſſe we repent, the kingdome of God <gap reason="illegible" resp="#UOM" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> will ſend upon this land a famine of the Word. <gap reason="illegible" resp="#UOM" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap>
+               <pb n="6" facs="tcp:171503:5"/>and they which have not the love of the truth ſhall prevaile with many, and with<g ref="char:EOLhyphen"/>draw them from obedience to the Prince; this noble Realme ſhall be ſubject to forraine nations; all this will the zeale of the Lord of hoſtes bring to paſſe.</p>
+            <p>I could have ſpent this time in opening of ſome other matter, but nothing, in my judgement, is more worthy your good conſideration &amp; ſpeedy redreſſe, &amp;c. Wherefore he concludes with a grave exhortation to her Majeſtie, as followeth.</p>
+            <p>O that Your Grace did behold the miſerable diſorder of Gods Church, or that you might foreſee the calamities that will follow! It is a part of your kingdome, and ſuch a part, as is the principall prop and ſtay of the reſt: I will ſay to your Majeſtie, as <hi>Cyrillus</hi> ſometimes ſaid to the godly Emperours <hi>Theodoſius</hi> and <hi>Va<g ref="char:EOLhyphen"/>lentinian, ab ea quae erga Deum eſt pietate Reipub. veſtrae ſtatus pendet,</hi> The good ſtate &amp; welfare of your common-weale hangeth upon true godlineſſe, you are our go<g ref="char:EOLhyphen"/>vernour, you are the nurſe of Gods Church, We may open this griefe before you; God knoweth if it may be redreſſed it is runne ſo farre: But if it may bee redreſſed, there is no other beſides your highneſſe, that can redreſſe it. I hope I ſpeake truely that which I ſpake without flattery, that God hath indued your Grace with ſuch meaſure of learning and knowledge as no other Chriſtian Prince; He hath given you peace, happineſſe, the love and the hearts of your Subjects. Oh turne and employ theſe to the glory of God, that God may con<g ref="char:EOLhyphen"/>firme in your Grace the thing vvhich he hath begun. To this end hath God pla<g ref="char:EOLhyphen"/>ced Kings and Princes in their State, as <hi>David</hi> ſaith, that they ſerve the Lord, that they may ſee, &amp; cauſe others to ſee to the furniture of the Church. The good Emperour <hi>Iuſtinian</hi> cared for this as much, as for his life, <hi>Conſtantine, Theodoſius,</hi> and <hi>Valentinian,</hi> and other godly Princes called themſelves <hi>vaſſales,</hi> the ſubjects and bond-ſervants of God. They remembred that God furniſhed them in their houſes, and were not unmindfull to furniſh his houſe.</p>
+            <p>When <hi>Auguſtus</hi> had beautified Rome, with ſetting up many faire buildings, he ſaid, <hi>inveni lateritiam, marmoream reliqui.</hi> I found it made of brick, but I leave it made of marble. Your Grace, when God ſent you to your inheritance and the right of this Realme, found the Church in horrible confuſion, and in reſpect of the true worſhip of God, a Church of bricke; or rather, as <hi>Ezekiel</hi> ſaith, dawbed up with untempered morter. Your Grace hath already redreſſed the doctrine, now caſt your eyes towards the Miniſtery, give courage and countenance unto learning that Gods houſe may be ſerved: So ſhall you leave a Church of God, and a teſtimony that the zeale of the Lords houſe hath eaten you up.</p>
+            <p>Let us have care for the houſe of God, whoſoever is not after this ſort zealous, is a man of a double heart, we may not halt betweene two opinions: <hi>If the Lord bee God follow him, but if Baal bee hee, then goe after him.</hi> Hee that is not with Chriſt is againſt him. Many talke of the Goſpell, and glory in their knowledge, but it is neither talke nor knowledge, which ſhall ſave them in that day: he that feareth the Lord, and ſerveth him with a pure heart, and may true<g ref="char:EOLhyphen"/>ly ſay, <hi>the zeale of thine houſe hath conſumed me,</hi> he ſhall be ſaved; if they ſhall no eſcape, which have zeale without knowledge, what ſhall become of us which have knowledge without zeale.</p>
+            <p>And you, whoſoever you are that <gap reason="illegible" resp="#UOM" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap>
+               <pb n="7" facs="tcp:171503:5"/>Church, if there be any zeale of God in you, if you have any fellowſhip of the Spirit, if any compaſſion and mercy, if you love God, if you deſire the conti<g ref="char:EOLhyphen"/>nuance of the Goſpell; Oh remember you have the patrimony due to them that ſhould attend in the Lords houſe; you take unto your ſelves wrongfully that which was not lotted for you. <hi>Give unto Caeſar thoſe things that belong unto Caeſar, and unto God the things which appertaine unto him,</hi> and make for the beautie and furniture of his houſe. Enrich your ſelves by lawfull meanes, and without the ſpoile and waſt of Gods Church. Let not the Miniſtery by your meanes be de<g ref="char:EOLhyphen"/>ſpiſed. You enriched them heretofore in the dayes of Popery, which mocked, and blinded, and devoured you: ſpoyle not them now, that feed, and inſtruct and comfort you.</p>
+            <p>That reverend man of God Mr. <hi>Perkins</hi> in his Sermon of the duties and dig<g ref="char:EOLhyphen"/>nities of the Miniſtery giveth three reaſons of the rareneſſe and ſcarceneſſe of good Miniſters. The firſt is, the contempt and diſgrace of their calling by wick<g ref="char:EOLhyphen"/>ed and worldly men. 2. The difficultie of diſcharging the duties of their cal<g ref="char:EOLhyphen"/>ling. The 3. reaſon is more peculiar to this age of the new Teſtament, namely: <hi>Want of maintenance and preferment for men that labour in this calling.</hi> Men are fleſh and blood, and in that reſpect muſt be allured and wonne to embrace this voca<g ref="char:EOLhyphen"/>tion by ſome arguments, which may perſwade fleſh and blood; the world hath in all ages beene negligent herein, and therefore God in his Law tooke ſuch ſtrict order for the maintenance of the Levites; but eſpecially now under the Goſpell, this calling is unprovided for when it deſerves beſt of all to be rewar<g ref="char:EOLhyphen"/>ded: certainly it were a worthy Chriſtian policy to propound good preferments to this calling, that thereby men of the worthyeſt gifts might be wonne with it; and the want thereof is the cauſe why ſo many young men of ſpeciall parts and greateſt hope, <hi>turne to other vocations,</hi> and eſpecially <hi>to the Law,</hi> wherein at this day the greateſt part of the <hi>fineſt wits of our Kingdome are imployed,</hi> and why? but becauſe they have all the meanes to riſe; whereas the Miniſtery for the the moſt part yeeldeth nothing but a plaine way to beggery: this is a great blemiſh in our Church, and ſurely, <hi>I wiſh the Papiſts, thoſe children of this world, were not wi<g ref="char:EOLhyphen"/>ſer in their kinde in this point then the Church of God:</hi> the reformation hereof is a worke worth the labour of a Prince and people, and ſpeciall care is to be had in it, elſe it will not be reformed: for doubtleſſe had not God himſelfe in the Old Teſtament taken ſuch ſtraight order for the livings of the Levites, they had bin put to no leſſe extremities then is the Miniſtery of this age, and this reaſon ad<g ref="char:EOLhyphen"/>ded to the other makes them perfect, and all put together make a reaſon infalli<g ref="char:EOLhyphen"/>ble: for who will undergoe <hi>ſo vile a contempt, and undertake ſo great a charge for no reward:</hi> and where there is ſo great contempt, ſo heavy a burthen, and ſo mean a reward, what marvell if a good Miniſter be one of a thouſand?</p>
+            <p>Rulers and Magiſtrates are hereby taught, if good Miniſters be ſo ſcarce, to maintaine and increaſe, and doe all good they can to the Schooles of the Prophets, to Univerſities, Colledges and Schooles of good learning, which are the Seminaries of the Miniſtery: herein the example of <hi>Samuel</hi> is very worthy <gap reason="illegible" resp="#UOM" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap>
+               <pb n="8" facs="tcp:171503:6"/>put off his robes and prophecied amongſt them. So ſhould Chriſtian Princes and Magiſtrates advance their Schooles, and ſee them both well maintained, and well ſtored; the reaſon is evident and forcible, a good Miniſter is one of a thou<g ref="char:EOLhyphen"/>ſand, if therefore they would have the number encreaſed, let them maintaine the Seminaries. And againe, if Antichriſt to uphold his kingdome (the kingdome of Satan,) be ſo carefull herein to erect Colledges and indow them with livings to be Seminaries for his Synagogue, and uſe ſo great meanes to ſow his tares in the hearts of young men, that ſo they may ſow them in the hearts of the people abroad, ſhall not Chriſtian Princes be as carefull, or ra-ther much more zealous for the encreaſing of the number of Godly Miniſters? ſhall <hi>Baal</hi> have his 400. Prophets, and God have his <hi>Elias</hi> alone? great ſhame muſt it be to <hi>Ahab,</hi> or to any King, whoſe kingdome is in that eſtate.</p>
+            <p>Adde hereunto that paſſage of an excelling and worthy knight, Sir <hi>Henry Spel<g ref="char:EOLhyphen"/>man,</hi> in his tract, <hi>de non temerandis Eccleſiis.</hi>
+            </p>
+            <p>Perhaps Lay Approprietaries think they may hold Parſonages and tithes by example of Celledges, Deanes and Chapters, Biſhops of the land, and of divers of our late Kings and Princes. Before I ſpeak to this point, I take it by proteſtati<g ref="char:EOLhyphen"/>on that I have no heart to make apologie for it; For I wiſh that every man might drinke the water of his owne Well, eate the milke of his owne flocke, and live by the fruite of his owne vineyard: I meane that every member might attract no other nutriment, but that which is proper to it ſelfe: yet are they greatly deceived that draw any juyce of incouragement from theſe examples, for all theſe are ei<g ref="char:EOLhyphen"/>ther the Seminaries of the Church, or the husbandmen of the Church, or the Fa<g ref="char:EOLhyphen"/>thers and nurſes of the Church; all <hi>de familia Eccleſiae,</hi> and conſequently belong<g ref="char:EOLhyphen"/>ing to the care of the Church, and ought therefore to be ſuſtained by it. For Saint <hi>Paul</hi> ſaith. <hi>He that provideth not for his owne, and namely for them of his houſhold, hee denyeth the faith; and is worſe then an infidell.</hi> 1 <hi>Tim</hi> 5. Therefore before the ſtatute of ſuppreſſion of Abbies, thoſe that were not meerely Eccleſiaſticall perſons, yet if they were mixt, or had Eccleſiaſticall juriſdiction, they might by the lawes of the land participate Eccleſiaſticall livings, and tithes particularly. And this ſeemeth to take ſome ground out of the Word of God; for the provinciall Le<g ref="char:EOLhyphen"/>vites (as I may tearme them) whom <hi>David</hi> ſevered from the Temple, and pla<g ref="char:EOLhyphen"/>ced abroad in the countrey to be rulers of the people, <hi>in matters pertaining to God and the Kings buſineſſe,</hi> 1 <hi>Cron.</hi> 26.30.32. (That is ſpiriually and temporally) had their portion of tithes notwithſtanding, as well as the other Levites that miniſtred in the Temple.</p>
+            <p>For a farewell; heare what Saint <hi>Auguſtine</hi> ſaith Homil. 48. ex lib. 50. Homil. tom. 10. <hi>majores noſtri ideo copiis omnibus abundabant quia Deo decimas dabant &amp; Caeſari cenſum reddebant.</hi> Our Anceſters did therefore abound in all riches be<g ref="char:EOLhyphen"/>cauſe they did pay tithes unto God, and tribute unto Caeſar: but now they are not willing to doe either.</p>
+            <p>Act. 28.24. <hi>Some were perſwaded with things that were ſpoken, and ſome beleeved not.</hi>
+            </p>
+         </div>
+      </body>
+   </text>
+</TEI>
